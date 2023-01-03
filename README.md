@@ -113,7 +113,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=di9fi60ua2eszo0000s4fsu8k&cover_image=true&theme=tokyonight&show_offline=false&background_color=001c4f&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=di9fi60ua2eszo0000s4fsu8k&cover_image=true&theme=default&show_offline=false&background_color=001c4f&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
 
