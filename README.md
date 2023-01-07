@@ -12,7 +12,7 @@
 
 
 ### May be I'm a  
-teen full-stack developer who loves to build awesome $hit. 
+full-stack developer who loves to build awesome $hit. 
 Also loves to hear [Theo]("https://github.com/t3dotgg") rant.  
   
 
