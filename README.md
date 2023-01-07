@@ -13,7 +13,7 @@
 
 ### May be I'm a  
 full-stack developer who loves to build awesome $hit. 
-Also loves to hear [Theo]("github.com/t3dotgg") rant.  
+Also loves to hear [Theo](https://github.com/t3dotgg) rant.  
   
 
 <br/>  
@@ -22,10 +22,10 @@ Also loves to hear [Theo]("github.com/t3dotgg") rant.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [CS50 by Harvard]("github.com/lazydukk/cs50")  
+- 🔭 I’m currently working on [CS50 by Harvard](https://github.com/lazydukk/cs50)  
   
 
-- 🌱 I’m currently learning [TRPc]("trpc.io") && <b>backend</b> stuff  
+- 🌱 I’m currently learning [TRPc](https://trpc.io) && <b>backend</b> stuff  
   
 
 - ❓ Ask me about anything about non human thingies  
