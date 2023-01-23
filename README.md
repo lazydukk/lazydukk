@@ -1,6 +1,6 @@
 # Welocome to <b>Yadayada</b> ship 😎
 
-## Say hi to: [<b>lazydukk</b>](https://lazydukk.vercel.app/)
+#### Say hi to: [<b>lazydukk</b>](https://lazydukk.vercel.app/)
 ## Fun fact: <b>Chaos Junkie</b>
   
 <br>
