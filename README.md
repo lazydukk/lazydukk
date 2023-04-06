@@ -17,7 +17,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash-222222?style=for-the-badge&logo=Upstas&logoColor=00E9A3&label=)
+![Upstash](https://img.shields.io/badge/Upstash-222222?style=for-the-badge&logo=upstas&logoColor=00E9A3&label=)
 ![Upstash](https://img.shields.io/static/v1?style=for-the-badge&message=Upstash&color=222222&logo=Upstash&logoColor=00E9A3&label=)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
